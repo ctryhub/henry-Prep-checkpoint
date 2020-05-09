@@ -1,0 +1,100 @@
+
+#divNegro {
+  margin-bottom: 30px;
+  margin-top: 30px;
+  border-top: 1px;
+  border-bottom: 30px;
+  border-left: 1px;
+  border-right: 20px;
+  border-color: black;
+  border-style: solid;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 5px;
+  padding-right: 5px;
+  width: 400px;
+  height: 100px;
+  background-color: black;
+}
+
+#uno { 
+ display: flex;
+ border: 5px solid rgb(240, 124, 109);
+ margin-bottom: 5px;
+ color: white;
+ }
+
+ #uno-contact { 
+  display: inline-flex; 
+  height: 40px; 
+  background-color: lightsalmon;
+  align-items: center;
+}
+
+ #uno-careers {
+ display: inline-flex;
+ background-color: rgb(122, 199, 224);
+ align-items: center;
+}
+
+ #uno-about { 
+ display: inline-flex;
+ background-color: lightgreen;
+ align-items: center;
+ margin-left: auto;
+ }
+    
+ #dos {
+  border: 5px solid orange;
+  margin-bottom: 5px;
+  color: white;
+}
+
+ #dos-contact {
+  background-color:rgb(240, 124, 109);
+  display:flex;
+  justify-content: center;
+  height: 40px;
+  align-items: center;
+  }
+
+ #dos-careers{
+  background-color: rgb(122, 199, 224);
+  display:flex;
+  justify-content: center;
+  height: 40px;
+  align-items: center;
+  }
+
+ #dos-about{
+  background-color: lightgreen;
+  display:flex;
+  justify-content: center;
+  height: 40px;
+  align-items: center;}
+
+ #tres {
+   display: flex;
+    border: 5px solid orange;
+    color: white;
+  }
+ #tres-contact {
+   display: inline-flex;
+   height: 40px;
+   background-color:rgb(240, 124, 109); 
+   align-items: center;
+  }
+
+ #tres-careers { 
+ display: inline-flex;
+ height: 40px;
+ background-color: rgb(122, 199, 224);
+ align-items: center;
+}
+
+ #tres-about { 
+   display: inline-flex;
+   height: 40px;
+   background-color: lightgreen;
+   align-items: center;
+  }

@@ -1,0 +1,23 @@
+
+#imgClass{
+ width: 500px; 
+ display:block;
+ margin:auto;
+        
+}
+
+#divClass {
+  width: 600px;
+   background-color: yellow;
+   margin: 0 auto;
+}
+
+#ulClass {
+  color: red;
+  font-size: 25px;
+  margin: 50px
+}
+
+#aClass{
+  color: green;
+}

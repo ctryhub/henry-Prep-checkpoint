@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE abiword PUBLIC "-//ABISOURCE//DTD AWML 1.0 Strict//EN" "http://www.abisource.com/awml.dtd">
+<abiword template="false" xmlns:ct="http://www.abisource.com/changetracking.dtd" xmlns:fo="http://www.w3.org/1999/XSL/Format" xmlns:math="http://www.w3.org/1998/Math/MathML" xid-max="35" xmlns:dc="http://purl.org/dc/elements/1.1/" fileformat="1.1" xmlns:svg="http://www.w3.org/2000/svg" xmlns:awml="http://www.abisource.com/awml.dtd" xmlns="http://www.abisource.com/awml.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" version="3.0.2" xml:space="preserve" props="dom-dir:ltr; document-footnote-restart-section:0; document-endnote-type:numeric; document-endnote-place-enddoc:1; document-endnote-initial:1; lang:es-AR; document-endnote-restart-section:0; document-footnote-restart-page:0; document-footnote-type:numeric; document-footnote-initial:1; document-endnote-place-endsection:0">
+<!-- ======================================================================== -->
+<!-- This file is an AbiWord document.                                        -->
+<!-- AbiWord is a free, Open Source word processor.                           -->
+<!-- More information about AbiWord is available at http://www.abisource.com/ -->
+<!-- You should not edit this file by hand.                                   -->
+<!-- ======================================================================== -->
+
+<metadata>
+<m key="abiword.generator">AbiWord</m>
+<m key="dc.format">application/x-abiword</m>
+</metadata>
+<rdf>
+</rdf>
+<styles>
+<s type="P" name="Normal" basedon="" followedby="Current Settings" props="font-family:Liberation Serif; margin-top:0pt; font-variant:normal; margin-left:0pt; text-indent:0in; widows:2; font-style:normal; font-weight:normal; text-decoration:none; color:000000; line-height:1.0; text-align:left; margin-bottom:0pt; text-position:normal; margin-right:0pt; bgcolor:transparent; font-size:12pt; font-stretch:normal"/>
+</styles>
+<pagesize pagetype="A4" orientation="portrait" width="210.000000" height="297.000000" units="mm" page-scale="1.000000"/>
+<section xid="10">
+<p style="Normal" xid="11" props="text-align:left; dom-dir:ltr">## Explica los siguentes conceptos con tus propias palabras. (no más de tres líneas por respuesta).</p>
+<p style="Normal" xid="12"><c></c></p>
+<p style="Normal" xid="13" props="text-align:left; dom-dir:ltr">* HTML:<c>HTML es el bloque básico con el que está construido internet. Todas las páginas web utilizan HTML. No es un lenguaje de programación propiamente dicho, sino, es un lenguaje de Markup: son lenguajes que incorporan al texto marcas o etiquetas que luego son interpretadas para darle información extra sobre la estructura del texto. En el caso de HTML, este será interpretado por los browsers, que tambien presentaran el código en forma gráfica.</c></p>
+<p style="Normal" xid="14"><c></c></p>
+<p style="Normal" xid="15" props="text-align:left; dom-dir:ltr">* CSS:<c>Luego se introdució el concepto de CSS (Cascading Style Sheets); una forma de poder agregar color y estilos en nuestras páginas!</c></p>
+<p style="Normal" xid="1" props="text-align:left; dom-dir:ltr"><c>Reglas CSS</c></p>
+<p style="Normal" xid="2" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="3" props="text-align:left; dom-dir:ltr"><c>Básicamente una regla CSS está compuesta por un atributo o propiedad y un valor. Seǵun el atributo que usemos y el valor que le pongamos a ese atributo vamos a obtener resultados visuales distintos en nuestro html.</c></p>
+<p style="Normal" xid="16"><c></c></p>
+<p style="Normal" xid="17" props="text-align:left; dom-dir:ltr">* Git: Git es un <c props="font-style:italic">sistema de control de versión</c><c> diseñado para trackear cambios en archivos digitales y coordinar el trabajo realizado sobre esos archivos en un equipo de personas. Su mayor uso es para el desarrollo de software, aunque también es utilizado para trackear archivos de otros tipos.</c></p>
+<p style="Normal" xid="4" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="5" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="18"><c></c></p>
+<p style="Normal" xid="19" props="text-align:left; dom-dir:ltr">* Arreglos:</p>
+<p style="Normal" xid="20"><c></c></p>
+<p style="Normal" xid="21" props="text-align:left; dom-dir:ltr">* Objetos:</p>
+<p style="Normal" xid="22"><c></c></p>
+<p style="Normal" xid="23" props="text-align:left; dom-dir:ltr">* Variables: En el corazón de Javascript se encuentran las variables. Una variable es una forma de almacenar el valor de algo para usar más tarde. (Una nota para aquellos con conocimientos previos de programación: Javascript es un lenguaje de tipado débil, una variable se puede configurar (y restablecer) a cualquier tipo, no necesitamos declarar su tipo al iniciar la variable).</p>
+<p style="Normal" xid="6" props="text-align:left; dom-dir:ltr">La anatomía de una variable es primero la palabra clave, un espacio, el nombre que le estamos dando a la variable, un signo de "igual", el valor que le estamos asignando a la variable y luego el punto y coma.</p>
+<p style="Normal" xid="7" props="text-align:left; dom-dir:ltr">Existen tres formas de declarar una variable:</p>
+<p style="Normal" xid="8" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="9" props="text-align:left; dom-dir:ltr"><c></c></p>
+<p style="Normal" xid="24"><c></c></p>
+<p style="Normal" xid="25" props="text-align:left; dom-dir:ltr">* Métodos:</p>
+<p style="Normal" xid="26"><c></c></p>
+<p style="Normal" xid="27" props="text-align:left; dom-dir:ltr">* DOM:</p>
+<p style="Normal" xid="28"><c></c></p>
+<p style="Normal" xid="29" props="text-align:left; dom-dir:ltr">* Atributo de un tag HTML:</p>
+<p style="Normal" xid="30"><c></c></p>
+<p style="Normal" xid="31" props="text-align:left; dom-dir:ltr">* Selector CSS:</p>
+<p style="Normal" xid="32"><c></c></p>
+<p style="Normal" xid="33" props="text-align:left; dom-dir:ltr">* Un función constructora:</p>
+<p style="Normal" xid="34"><c></c></p>
+<p style="Normal" xid="35"></p>
+</section>
+</abiword>
